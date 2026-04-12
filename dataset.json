@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Charlotte, North Carolina, US",
+  "export_job_id": "49c43b94-ead0-4a87-98ca-4c5708a96ffe",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 495595,
+  "location_name": "Charlotte",
+  "location_type": "city",
+  "repo_name": "the-hhi-monopoly-index-for-charlotte-north-carolina-us-sample-495595",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/495595/beamstation_495595_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 8,
+  "sample_sha256": "533e7a9fa6d07892ab2d7b8d27c37713205c4c226665633ab5fe778b9586aecf",
+  "sample_size_bytes": 46802,
+  "total_records": 80,
+  "updated_at": "2026-04-07T18:08:36.017423+00:00"
+}

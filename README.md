@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Charlotte, North Carolina, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `495595` |
 | Location | Charlotte |
 | Category | Restaurants |
-| Full dataset size | 80 records |
-| Free sample size | 8 records (10.0%) |
-| Last export | 2026-04-07T18:08:36.017423+00:00 |
+| Full dataset size | 70 records |
+| Free sample size | 7 records (10.0%) |
+| Last export | 2026-04-14T23:26:47.169200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-charlotte-north-carolina-us-sample-495595/releases/download/sample-latest/beamstation_495595_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample

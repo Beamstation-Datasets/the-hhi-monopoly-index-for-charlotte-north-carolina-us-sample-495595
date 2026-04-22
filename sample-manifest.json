@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7638cb8c-1285-4473-92ec-d53dc1e0e17c",
+  "export_job_id": "94a0643f-5d64-4fcf-9e40-8cb28f7ad118",
   "id_short": 495595,
-  "published_at": "2026-04-18T19:15:15Z",
+  "published_at": "2026-04-22T07:35:41Z",
   "repo_name": "the-hhi-monopoly-index-for-charlotte-north-carolina-us-sample-495595",
   "sample_asset_name": "beamstation_495595_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/495595/beamstation_495595_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "41c822cb9488be50791745e2f865a82dabb0ef95a4faae2f8865f97400d9bba1",
-  "sample_size_bytes": 42984,
-  "total_records": 70
+  "sample_records": 2,
+  "sample_sha256": "30e4bd732ecdec22facf9bb3e3b0649326c0e86e8c739590ba3c5c70d0a1c923",
+  "sample_size_bytes": 23374,
+  "total_records": 27
 }
